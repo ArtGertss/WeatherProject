@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherProject</string>
+    <string name="app_title">Weather</string>
+    <string name="search_a_location">Search a location</string>
+    <string name="favorite_this_location">Favorite this Location</string>
+    <string name="use_gps_location">Use GPS location</string>
+    <string name="favorites">Favorites</string>
+    <string name="lat">LAT:</string>
+    <string name="lon">LON:</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+    <string name="saved_to_favorites">Location saved to Favorites</string>
+</resources>

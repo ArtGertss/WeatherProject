@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:contentDescription="@string/search_a_location"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search_a_location"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/gps_location"
+        android:contentDescription="@string/use_gps_location"
+        android:icon="@drawable/ic_gps_fixed"
+        android:title="@string/use_gps_location"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/favorites"
+        android:contentDescription="@string/favorites"
+        android:title="@string/favorites"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/save_favorites"
+        android:contentDescription="@string/save_to_favorites"
+        android:title="@string/save_to_favorites"
+        app:showAsAction="never" />
+</menu>
